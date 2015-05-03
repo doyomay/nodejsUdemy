@@ -31,3 +31,5 @@ node_modules
 //Configuraciones de intellij idea
 .idea/
 
+config/production.json
+config/development.json
